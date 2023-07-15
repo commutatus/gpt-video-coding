@@ -1,0 +1,464 @@
+﻿Adaptive Motivation and Emotion in Education: Research and Principles for Instructional Design
+
+
+What Are Motivation and Emotion? And Why the Definitions Matter
+The words motivation and emotion are part of the common vernacular; however, researchers’ use of these terms often differs from everyday speech. Motivation refers to the processes of both initiating and sustaining behavior. Motivational researchers consider how students’ self-related beliefs, cognitions, goals, and experiences shape engagement and learning. Motivation includes various forms related to competence (can I do this? ) as well as values and goals (why do I want to do this?). Motivation is also contextual. A student’s motivation may vary over time and as a function of the educational context; teacher, parent, or peer interactions; the subject area; or even the specific task. As such, altering educational contexts offers ample opportunity to support more adaptive forms of motivation. Emotion involves systems of coordinated psychological processes, including affective, cognitive, physiological, motivational, and expressive components. For example, anxiety involves uneasy, nervous feelings (affective), worries (cognitive), physiological arousal, avoidance motivation, and anxious facial expression. Some authors define emotions as intense, short-lived episodes (and distinguish them from longer lasting, lower intensity affective states, that is, moods). Valence and activation further describe emotions. Valence differentiates positive states, such as enjoyment and happiness, from negative states, such as anger or boredom. Physiologically activating states, such as excitement, can be distinguished from deactivating states, such as relaxation.
+
+Education-Related Motivation and Emotion and Relevant Theory
+Extensive research addresses motivation in education. And, there is a growing body of theoretical and empirical work on how and why emotions emerge in the classroom and their relation to engagement and learning. The next section describes useful theory and reviews evidence related to five educationally relevant types of motivation: competence beliefs, causal attributions and implicit theories of intelligence, interests and values, intrinsic and extrinsic motivation, and achievement goals. We close by describing research on emotion. 
+
+
+Competence Beliefs and Expectancies
+Competence beliefs and expectancies have powerful consequences for students’ academic outcomes. Self-efficacy, one of the most researched, refers to individuals’ beliefs about their capacity to perform, that is, to execute behaviors at particular levels (social cognitive theory). Applied to education, academic self-efficacy includes students’ expectations and beliefs about their ability to learn materials, develop skills, or master tasks. Self-efficacy is future-oriented, reflecting students’ beliefs about what they will be able to do, and is specific to a task. 
+Similar to self-efficacy, achievement expectancies reflect individuals’ predictions about how well they will do on upcoming tasks (expectancy–value theory; Eccles et al., 1983). A related construct is self-concept, referring to cognitive beliefs about various aspects of the self, including cognitive evaluations of ability. These competence related motivation constructs overlap considerably. Regardless of terminology, competence-related beliefs should support student learning and achievement, as believing one has control over one’s own outcomes is necessary for engaging and putting forth effort in a given task. Empirical research supports this claim. Competence beliefs shape students’ choices, effort and persistence, self-regulatory strategies, emotions, and achievement. For example, students with higher academic self-efficacy are more likely to use metacognitive strategies, persist despite failure, experience fewer negative emotions and more positive emotions, select challenging courses, and attain higher achievement. The educational environment can support competence beliefs. For example, mastery experiences, vicarious experiences, verbal persuasion, and affective or physiological experiences all influence self-efficacy. In experiments, creating tasks that are well-aligned with students’ existing skills, having students observe similar models successfully demonstrate a task encouraging students to set specific, challenging, but attainable goals, and providing positive, encouraging, and informational feedback all are strategies that support students’ competence beliefs. Although school-based interventions are rare, those that utilize some combination of these strategies are generally successful in supporting perceived competence and subsequent achievement. For example, in one cluster-randomized intervention, the fifth-grade students of teachers trained on goal setting, providing positive feedback, and using modeling had higher self-efficacy, compared with the students of teachers who did not receive this training. 
+Causal Attributions and Implicit Theories of Intelligence
+People are motivated to understand outcomes they experience, especially unexpected or negative ones (attribution theory of achievement motivation; Weiner, 1985). In their search to explain an outcome, students may arrive at many possible causal attributions (i.e., ability, effort, luck, or task difficulty). Three dimensions organize these attributions and specify why they matter: locus, whether the cause is internal to the individual (e.g., ability, effort) or external (e.g., luck,task difficulty), stability or whether the cause will persist (e.g., aptitude) or be transient (e.g., effort), and controllability or whether the individual can control the cause (e.g., effort is controllable, luck is uncontrollable). These dimensions have different implications. For example, an internal attribution of success (e.g., high ability) elicits pride, in contrast to an external attribution (e.g., teacher help) that can elicit gratitude. Stable (vs. unstable) attributions imply that an outcome is more likely to reoccur; thus, stable failure attributions elicit hopelessness and low future expectancies, while unstable failure attributions elicit hopefulness. Controllable (vs. uncontrollable) failure attributions elicit feelings of guilt and motivation to alter the situation in the future. Overall, research supports these hypothesized patterns. Closely related to attributions, theories of intelligence (mind-sets) refer to beliefs about the nature of ability. Two general mind-sets describe students’ thinking about their own intelligence: fixed mind-set, viewing ability as a stable entity (stable and uncontrollable in attribution terms), and growth mind-set, thinking ability is changeable via effort (unstable and controllable). These mind-sets have consequences Individuals with a growth mind-set view effort as central to changing their intelligence, so they endorse goals to develop their competence, view setbacks as learning opportunities, and are more likely to persist after failure. Growth mind-sets are associated with more adaptive attributions, positive emotions, reduced anxiety, and higher achievement. In contrast, individuals who view intelligence as innate and stable (fixed mind-set) are more concerned with showing others they are smart and see failure as indicating low intelligence, often leading to helplessness. In school-based interventions, training students to endorse the notion that everyone can learn with effort and the right strategies, or to think about academic successes as controllable and academic failures as unstable, is beneficial for attributions, emotion, persistence, and performance. For example, college students who received attribution retraining to ascribe failure to controllable, unstable causes had improved perceived control, emotions, and achievement. Students randomly assigned to receive instruction on how the brain develops and can grow were more likely to endorse a growth mind-set and had higher academic performance. 
+
+
+Interest and Value
+Value-related constructs address why an individual chooses to engage in a particular task. Value takes various forms (expectancy–value theory; Eccles et al., 1983): utility value (task perceived as useful to other aspects of the person’s life), attainment value (personal importance of doing well on a task), intrinsic value (perceiving the task as enjoyable), and cost (negative aspects of engaging in the task). Relatedly, within interest research, interest includes both positive feelings (e.g., enjoyment) and valuing the importance of the domain for the self. Interest can be further differentiated into individual interest, which is mores table and resides within the person, and situational interest, which emerges from and is supported by the context. Like competence beliefs, value beliefs also predict academic outcomes, including persistence, performance, and choice of activities. Research from expectancy–value theory indicates that—although competence beliefs most strongly predict performance—values most strongly predict activity choices and enrollment decisions. Moreover, interest enhances attention, cognitive processing, and persistence. Interest also relates to course grades, although the effects are not always straightforward (they may vary based on perceived competence, initial interest, and prior achievement). A growing body of research investigates what predicts task value and interest. For instance, opportunities for active involvement, supporting autonomy, connecting course material to real life, and creating a sense of belonging or connectedness support interest in and value for science. School-based intervention research highlights successful educational strategies for supporting task value and interest: focusing on inherently interesting topics and using hands-on activities or emphasizing the usefulness or importance of educational activities through discussion, written or verbal materials, or course assignments. In one randomized intervention involving a writing exercise, high school students with low success expectancies who were encouraged to make connections between their lives and their science course content had enhanced science interest and course grades, compared with students who simply wrote a summary of the information they were learning in class.
+Intrinsic and Extrinsic Motivation
+Closely related to value beliefs are intrinsic motivation, doing something for the inherent satisfaction that engaging in the activity provides, and extrinsic motivation, doing something because it leads to a separable outcome (e.g., praise or money; Ryan & Deci, 2000). Extensive research relates students’ intrinsic motivation to adaptive academic outcomes, including creativity, academic engagement, deep conceptual learning strategies, and academic achievement. Theoretically, innate psychological needs of autonomy, competence, and relatedness underlie intrinsic motivation (self-determination theory). Consequently, supports for intrinsic motivation in the classroom focus on strategies to enhance the fulfillment of these three needs among students. For instance, autonomy support includes providing choices, using justifications that highlight personal relevance, and using non-controlling language. Competence supports include creating a well-organized classroom structure with clear expectations, informational feedback, and tasks well-aligned with students’ existing skills. Support for relatedness includes teachers taking time to interact with and be attuned to students, and facilitating interaction among students (e.g., cooperative learning). Moreover, school-based intervention research suggests that training teachers to implement need-supportive practices benefits a range of outcomes including students’ intrinsic motivation, engagement, and academic achievement, although most interventions focus on autonomy support, rather than competence or relatedness. For example, students of teachers trained to be autonomy-supportive were more engaged in the classroom, relative to the students of untrained teachers (Reeve et al., 2004). Similarly, students were more intrinsically motivated to complete homework and performed better on unit tests when they received choices of homework assignments (Achievement Goal Orientations Goal orientations represent a general framework for interpreting and reacting to achievement settings (Ames, 1992). Achievement goal theory proposes two primary reasons for individuals’ engagement in achievement-related activities: mastery, with a focus on developing competence, and performance, with a focus on demonstrating competence and outperforming others. Subsequent theoretical approaches further differentiate achievement goals into approach versus avoidance goals. For instance, students may focus on outperforming others (performance-approach) or avoiding appearing incompetent (performance avoidance). An extensive, but largely correlational, body of research examines the relation of achievement goals to school-related outcomes. Students endorsing mastery goals have higher interest and self-efficacy, more positive and fewer negative emotions, higher levels of behavioral and cognitive engagement, and at least moderately high achievement, whereas performance-avoidance goals are associated with less adaptive patterns for these same outcomes. Research on performance-approach goals is more controversial. Performance-approach goals show small positive associations with some adaptive outcomes such as behavioral and cognitive engagement, interest, positive emotions, and achievement; however, these findings are inconsistent. Some research also links performance-approach goals to maladaptive outcomes such as avoidance of help seeking, test anxiety, and cheating. Like many motivation theories, the tenets of achievement goal theory have not been thoroughly tested in school-based intervention research. However, an emphasis on effort and improvement, tolerance for mistakes, varied and challenging tasks, student autonomy, collaboration, and private, task-based feedback in educational settings may support mastery orientations. In contrast, a product focus; rewards for performance; routine, mechanistic, or easy tasks; an emphasis on teacher control; competition; and public, normative feedback all may support performance orientations. The few school-based interventions generally focus on either training teachers to adopt practices characteristic of a mastery goal structure or teaching students about goal orientations and encouraging them to adopt mastery goals; however, only limited evidence supports their success. 
+
+
+Emotion
+So far, we have focused on different types of motivation, noting their relation to emotion. However, aside from attribution research, motivation researchers rarely consider emotions as a central outcome. Thus, we now turn specifically to emotion, using control–value theory as a lens. Control–value theory simultaneously considers how control and value beliefs shape emotions and subsequent academic outcomes: Individuals experience achievement emotions when they feel in (or out of) control of valued achievement activities and outcomes. Control appraisals—the perceived controllability of actions and outcomes—are implied by expectations, attributions, and competence beliefs, as described earlier. Value appraisals relate to the subjective importance of these activities and outcomes (similar to task value). In line with theoretical expectations, empirical evidence indicates that perceived control facilitates positive emotions and reduces negative emotions, and that value increases both positive and negative emotions (except for boredom, which is reduced when value is high; For instance, enjoyment for learning is promoted by favorable competence perceptions (perceived control) and interest in the learning material (high value). Test anxiety is triggered by perceived low control over exam performance and high importance of the exam. Furthermore, the downstream consequences of students’ emotions relate to their engagement and learning. Similar to interest and intrinsic motivation, positive activating emotions, such as enjoyment, promote high-quality learning under most conditions and in most individuals. Enjoyment enhances students’ interest in learning materials, motivational engagement, attention and flow experiences, deep learning strategy use, and self-regulated learning. By contrast, negative activating emotions, such as anger and anxiety, can undermine students’ learning. Specifically, although negative activating emotions can occasionally motivate students to invest effort and support detail-focused memory processes, they are typically detrimental to learning and achievement. This is most clearly illustrated for test anxiety, which reduces academic achievement. Finally, negative deactivating emotions, such as boredom, uniformly derail learning. The vast majority of research on educational interventions related to emotions is on test anxiety. Test anxiety can be treated successfully, with cognitive–behavioral and multimodal therapies being especially effective at reducing test anxiety and enhancing performance. In addition, research on classroom practices and test design indicates that test anxiety is reduced by providing structure and transparency (e.g., information regarding demands, materials, and grading practices of exams), task formats that reduce working memory load (e.g., multiple-choice rather than open-ended essay questions), choice between test items, opportunities to retake tests, and relaxing time constraints, presumably because these factors enhance perceived control or reduce the importance of a single test. Research on treatment interventions and classroom practices targeting a broader range of achievement emotions is largely lacking. However, initial evidence suggests that the practices to enhance student motivation described previously can also be beneficial to students’ emotions. 
+
+
+Instructional Design Principles
+Several common themes run across discrete theoretical perspectives and research traditions, making it possible to identify unifying design principles to support multiple forms of motivation and emotion. Five central instructional design principles support the beneficial forms of motivation and emotion identified previously (see also Table 1)
+
+
+	Related to
+	Supported by
+	Design principle
+	Academic competence
+	Academic/career choices
+	Activities well-aligned with existing skills
+	I, 2, 4
+	beliefs and
+	Persistence
+	Challenging attainable goals
+	
+
+	expectancies
+	Cognitive engagement
+	Modeling
+	
+
+	
+
+	Achievement
+	Positive feedback
+	
+
+	
+
+	Value
+	
+
+	
+
+	
+
+	Positive emotions
+	
+
+	
+
+	
+
+	Negative emotions
+	
+
+	
+
+	Effort attributions;
+	Persistence
+	Focus on ability as changeable
+	1,4
+	growth mind-sets
+	Achievement
+	Encourage attributions to effort and strategy use
+	
+
+	
+
+	Expectancies
+	
+
+	
+
+	
+
+	Mastery goals
+	
+
+	
+
+	
+
+	Positive emotions
+	
+
+	
+
+	
+
+	Negative emotions
+	
+
+	
+
+	Value and
+	Academic/career choices
+	Utility/importance of activities
+	2, 3, 5
+	interest
+	Persistence
+	Opportunities for active involvement
+	
+
+	
+
+	Cognitive engagement
+	Autonomy support
+	
+
+	
+
+	Achievement
+	Use of interesting/engaging activities
+	
+
+	
+
+	Emotions (positive and negative)
+	Support belonging/connectedness
+	
+
+	Intrinsic motivation
+	Persistence
+	Support need for autonomy (e.g., choices, provide
+	I, 2, 5
+	
+
+	Cognitive engagement
+	rationales)
+	
+
+	
+
+	Achievement
+	Support need for competence (e.g., optimal
+	
+
+	
+
+	Creativity
+	challenge, structure)
+	
+
+	
+
+	
+
+	Support need for relatedness (e.g., positive teacher- student interactions)
+	
+
+	Mastery goal
+	Persistence
+	Varied and interesting tasks with opportunities for
+	I, 2, 3, 4
+	orientations
+	Cognitive engagement
+	collaboration
+	
+
+	
+
+	Achievement
+	Autonomy support
+	
+
+	
+
+	Interest
+	Recognition/evaluation focused on effort/
+	
+
+	
+
+	Self-efficacy
+	improvement, criterion-referenced
+	
+
+	
+
+	Positive emotions
+	Mixed ability grouping; opportunities for
+	
+
+	
+
+	Negative emotions
+	collaboration
+	
+
+	Positive emotions
+	Self-efficacy
+	Support positive emotions through supports for
+	1-5
+	
+
+	Interest and value
+	competence (control) and value (see above)
+	
+
+	
+
+	Persistence
+	
+
+	
+
+	
+
+	Cognitive engagement
+	
+
+	
+
+	
+
+	Creativity
+	
+
+	
+
+	
+
+	Achievement
+	
+
+	
+
+	Design Principle 1: Support competence through well designed instruction, challenging work, and informational and encouraging feedback.
+Competence support is critical for enhancing motivation and positive emotions Various approaches support competence beliefs and in turn learning. High-quality instruction—which is well structured and paced, is cognitively clear, includes well-explained examples, and is provided by teachers with high subject-matter competence—is key. Furthermore, ensuring that students experience a sense of mastery by presenting tasks that just slightly exceed existing skills, having similar peers demonstrate how to complete challenging work, and providing positive feedback that emphasizes effort are strategies suggested by laboratory and fieldwork. Other approaches, such as attributional retraining, can also help to support competence beliefs by encouraging students to attribute failure to internal, unstable, and controllable causes (e.g., lack of effort, poor strategy use) rather than internal, stable, and uncontrollable causes (e.g., low ability). When students judge poor prior performance as due to something that they can change, they are more likely to believe they can be successful in the future, increasing persistence, engagement, and, ultimately, success. Various attributional retraining approaches are available, such as having peers provide testimony of their personal experiences or providing information to convince students that learning happens through effort and appropriate strategy use. 
+Design Principle 2: Support students’ autonomy through opportunities for student decision making and direction. A second key principle for enhancing motivation and positive emotions is to support feelings of autonomy (see Table1). This can be accomplished through providing choices and opportunities for students to be active decision makers and by acknowledging students’ perspectives. That is, students feel more autonomous when teachers provide an opportunity for them to express their opinions (regarding what and how they are learning in class) and teachers are responsive to their perspectives in designing or presenting learning activities. Explicit choices, for example, about the activities used to learn material, how and when to complete an assignment, with whom students will work or whether they work alone, or the focus or topic of their studies all support students’ autonomy. In addition, it is important to minimize practices that make students feel they are being controlled, including using extrinsic rewards to control students or when teachers make choices for students or pressure them to think or feel a particular way (e.g., telling them where to sit, when to speak, and being overly directive; Reeve, 2009). Unfortunately, teachers may see limited opportunity to allow students to influence learning content, activities, and evaluation in the current educational climate that emphasizes standards and accountability. Even so, students benefit when teachers attempt to maximize students’ opportunities to take ownership of their educational experience. 
+Design Principle 3: Select personally relevant, interesting activities that provide opportunities for identification and active involvement. A key principle in supporting students’ value and interests to provide the opportunity for students to actively engage in tasks or activities that are inherently interesting, personally relevant, or make clear connections to the real world. Such tasks also support mastery goal orientations.  Design Principle 3 can be enacted in a variety of ways. For instance, teachers might situate lessons on more basic concepts in the context of real-world applications of interest to students (e.g., understanding how a chemical reaction affects the way drugs are absorbed in the body). Providing opportunities for students to generate their own connections between the course material and their own lives, personal goals, and identity or to generate the pro-social purposes for learning are also effective strategies. In addition, opportunities for active involvement through working in groups, doing hands-on activities, and engaging in group discussion support interest and value. 
+Design Principle 4: Emphasize learning and understanding and de-emphasize performance, competition, and social comparison.
+The fourth design principle aims to support mastery goals and reduce performance goals. Strategies for enacting this design principle include activities where students receive formative assessments, have multiple opportunities to revise work, and are acknowledged for the effort they put into learning. The use of rubrics with clearly described criteria for evaluation can also help to shift the focus to learning. These types of practices contrast with feedback and evaluation that directly compares students or evaluates students based on their relative performance (e.g., grading on a curve, displaying the best student’s work), which are likely to encourage performance goals and potentially some of the maladaptive outcomes that can result from endorsing especially a performance-avoidance goal orientation. Notably, high-stakes testing directly contradicts this design principle, as severe consequences of failing high-stakes tests boost the importance of performance, thus increasing the endorsement of performance-avoidance goals and negative emotions such as anxiety, shame, and hopelessness.
+Design Principle 5: Support feelings of relatedness and belonging among students and with teachers.Finally, although the intervention evidence is scarce, supporting feelings of belonging and relatedness among students and between students and teachers also seems to be critical. Feeling a positive connection with teachers helps to enhance students’ intrinsic motivation (Ryan & Grolnick, 1986) as well as increase their situational interest and perceived competence(Linnenbrink-Garcia, Patall, & Messersmith, 2013).There also appear to be contagion effects, such that teacher enthusiasm translates into students’ feelings of enjoyment(Frenzel, Goetz, Lüdtke, Pekrun, & Sutton, 2009).Connection to peers is also important. Students who feel connected to their classmates report more positive emotional engagement (e.g., enhanced interest, reduced negative affect; Furrer & Skinner, 2003). This goal of creating and maintaining bonds across individuals in the classroom aligns well with the current emphasis on social emotional learning (e.g.,Brackett & Rivers, 2014) in many schools across the United States. As such, this design principle may already be supported in part by current interventions.
+Conclusion
+Research on motivation and emotion has accumulated a wealth of evidence regarding the potential benefits of particular types of motivation and emotion for supporting students’ engagement and achievement. And, there is a strong theoretical basis for designing instruction to support motivation and emotion, coupled with growing empirical evidence to support these theoretical claims. However, additional intervention research should test the effectiveness of these motivationally and emotionally supportive instructional design principles. Much of the current intervention research is based on single theoretical perspectives, with very little research examining how multiple supports for motivation and emotion function together. This focus on a single type of motivation or emotion is problematic for several reasons. First, as is clear from our review and the five design principles, the theories overlap considerably. Thus, integration may help researchers to provide clearer, more concise recommendations for practice. Second, empirical evidence suggests that interventions targeting a specific form of motivation or emotion may function differently for some students. For instance, utility–value interventions appear most beneficial for students with low perceived competence. If we truly want to translate this research into practice and use it to inform policy, we need more integrative approaches that test the translation of the five instructional design principles described here into practice. Researchers studying motivation and emotion must work more closely with educators and policymakers deciding educational reform. As noted earlier, the current emphasis on high-stakes testing and accountability runs counter to many of the design principles outlined. 
+Facilitating Student Outcomes by Supporting Autonomy: Implications for Practice and Policy
+
+
+Students come to the classroom equipped with motivational resources, naturally seeking opportunities to explore their personal interests, develop competence, and connect with other people (e.g., Reeve, 2009). Ideally, classroom practices tap into these existing, internal resources and catalyze them. But, all too often, classroom practices unintentionally thwart these motivational resources. Indeed, educators and students alike often lament on a lack of motivation (or a lack of the right kinds of motivation) as a key obstacle to learning and instruction. So, how can teachers create a classroom environment that will support engagement and catalyze those motivational resources? Teachers’ support for student autonomy is an essential tool for developing students’ motivation, engagement, learning, and achievement. 
+
+
+Autonomy Support and Its Components
+Autonomy support is a personal interaction style in which one person (e.g., a teacher) attempts to take the perspective of another (e.g., a student), considering their thoughts, values, and perspectives to guide behavior. Essentially, it attempts to enhance another’s personal endorsement of a behavior (“owning it”), encouraging their subjective experience of having volition. Autonomy support puts into practice the robust evidence-based tenet of self-determination theory (SDT; a macro theory of human motivation),namely that people have an innate psychological need for autonomy, that is, a need to feel that actions emanate from the self. Moreover, this need underlies optimal psychological functioning, growth, and productivity, along with other needs for competence and relatedness. This interpersonal support acknowledges that people thrive (i.e., students experience greater classroom engagement and learning and fewer undesirable outcomes like anxiety, poor learning strategies, or school dropout) when their motivation to engage in a behavior is autonomous rather than controlled.  Thus, autonomy support recognizes that students develop best when their behavior is volitional and its underlying reasons feel fully self-congruent and guided by their own interests, values, and goals. Feeling pressured to act in certain ways due to external (e.g., rewards, punishment) or internal (e.g., feelings of obligation, guilt, or pride) constraints that do not feel self-congruent is suboptimal. In the classroom, autonomy support centers on structuring activities and communicating in ways that allow students tofeel engaged in learning because it reflects their own values, preferences, interests, and goals. Overall, an autonomy-supportive teaching style entails curiosity, openness, and empathic understanding, which allows learners to feel that they can be themselves with their teacher. Students of all ages and ability and from various cultures and contexts benefit when their teachers support autonomy. Teacher autonomy support predicts greater need satisfaction and autonomous motivation in school, greater classroom engagement (behavioral and emotional),and self-regulation for learning, greater self-esteem, vitality, life satisfaction, and well-being(and academic achievement. Any practice that enhances another’s experience of endorsing their own behavior and having volition may be conceptualized as “autonomy supportive.” However, several components have emerged as key to an autonomy-supportive teaching style. These include (a) the provision of choice and student input, (b) explanations or rationales of the personal relevance of learning, (c) being open to and attuned to students’ perspectives, (d) accepting rather than the suppressing students’ negative affect and resistance, (e) using language to invite and inform, instead of control, and (f) eliciting and incorporating students’ curiosity and interest in the learning content. As the next section shows, the strength of a comprehensively autonomy-supportive climate is greater than a simple sum of its components. 
+
+
+Providing Choice Opportunities
+Overall, extensive experimental, correlational, and metanalytic evidence shows the benefits of providing choices and decision-making opportunities in the classroom (e.g.,choices about actions, assignments, pacing, tasks, topics, methods, and classroom management, among other things).Choice opportunities enhance interest, enjoyment, effort, persistence, and performance. However, giving choices can sometimes backfire. Choices given in a controlling manner or that fail to allow students to express their interests or regulate their behavior have limited benefits). Choosing can also backfire when students do not feel competent about the task or the choices they are asked to make. In such cases, students may prefer trusted teachers, peers, or parents choose for them, particularly if they come from a more collectivist cultural background. In sum, although providing choice is a critical component of supporting autonomy, both recipient and context must be carefully considered.
+
+
+Providing Rationales
+For students to experience autonomy in any activity, but especially an inherently uninteresting one, they have to understand its value. When teachers provide rationales for learning activities by communicating value, they can help students to internalize and endorse expected behaviors in the classroom. However, not all rationales have benefits. Rationales most effectively support autonomy, motivation, engagement, and learning by taking the student’s perspective: attempt specifically and concretely (rather than vaguely and abstractly) to highlight how activities relate to students’ personal or prosocial goals, values, aspirations, and life experiences. Rationales that build on students’ existing knowledge, but highlight value that may be hidden from the perspective of the student, yet known to teachers, are likely to be particularly effective. In contrast, some rationales rely on external contingencies, social norms, and pressure, or only take the teachers’ perspectives (and not those of students) to justify the value of a behavior. These
+undermine autonomous motivation, engagement, and learning— students feel controlled and disconnected. 
+
+
+Incorporating Student Perspectives
+At the core of an autonomy-supportive approach to teaching is teachers’ active effort to take students’ perspectives in all interactions and to assume that those perspectives are valid considerations in the learning environment. Offering choices and providing rationales require this perspective-taking to be successful motivational strategies. Other strategies even more clearly revolve around this key goal for teachers to seek out, engage with, acknowedge, validate, and incorporate students’ perspectives in their instruction. Teachers who rely on informational, nonevaluative, noncontrolling language communicate that they care about students’ perspectives and their autonomy in the classroom and, in turn, support students’ autonomous motivation, engagement, and learning. Using words like “could,” “might,” or “consider, “offering hints and suggestions, providing encouragement, expressing acceptance and support in response to student opinions, and being responsive to student questions are all autonomy-supportive forms of communication. 
+These contrast with more controlling forms of communication that include rigid commands and directives that verbally push students to behave in predetermined teacher-sanctioned ways, including words like “should,” “must,” “do,” “stop”; this leaves students feeling pressured and judged, ultimately undermining autonomous motivation and learning .Along similar lines, teachers who leave space in the classroom to hear, understand, accept, and respond to students’ questions, opinions, criticism, and negative feelings, rather than redirect or suppress such perspectives, ensure that students feel respected and motivated. Likewise, teachers who build lessons around students’ interests or preferences or allow students to personalize their learning activities nurture students’ autonomy and promote greater engagement and learning. Essentially, when teachers demonstrate that they understand students’ perspectives and are collaborating with students to transform the value of classroom activities based on students’ input, students are more likely to internalize the value of those activities and engage. 
+Education researchers have begun to design and test theory based interventions intended to train teachers to support their students’ autonomy more. The interventions typically take a workshop format (1-6 hours over 1-2 days) to expose teachers to the concept of autonomy-supportive teaching and its components (in contrast to controlling teaching and its components). Multimedia rich presentations (e.g., video examples) and interactive activities allow for analysis, discussion, practice, and coaching; they encourage teachers to plan their autonomy support. Many interventions also include a booster workshop session to review material and discuss successes, tips, and challenges. Teachers who are trained (even in relatively short interventions) are more effective at supporting autonomy in the classroom. When their teachers receive this training, students benefit educationally and psychosocially (e.g., gain in autonomous motivation, classroom engagement, learning, academic achievement, and wellbeing). Moreover, teachers themselves also benefit from training; they experience a boost in need satisfaction and efficacy for teaching, as they realize such strategies are feasible, easy to implement, and beneficial to their students’ learning and their relationships with students. However, limitations do arise. 
+First, although many interventions across the world exist, few training interventions have targeted autonomy support for U.S. teachers and students. Second, with few exceptions fully developed teacher training interventions have focused heavily on physical education teachers and sports education contexts and have neglected training programs for academic content teachers. Third, current barriers may prevent widescale accessibility and implementation of existing interventions. Challenges include a lack of accessible manuals for effective autonomy support training, the current reliance on autonomy-support scholars to guide intervention trainings, and the resource-intense nature of autonomy support trainings in terms of time, staff, and money. As education leaders and researchers think about scaling up the autonomy-support intervention trainings, these will be challenges.
+
+
+Do Teachers Support Autonomy in the Classroom?
+Given the evidence that autonomy support benefits students, teachers might readily adopt this approach in their instruction. However, student and observer reports suggest that, on average, teachers are indifferent or controlling in their practice (e.g., Reeve, 2009). Unfortunately, even with the best intentions to promote students’ learning, some teachers adopt
+controlling practices and pressure students to think, act, or feel in particular ways (i.e., through the use of commands, directives, incentives, rewards, punishments, deadlines, and suppression), without much consideration for students’ perspectives; these practices inadvertently thwart students’ psychological needs, autonomous motivation, well-being, and academic performance, as well as promote disengagement and amotivation. Even in the absence of overtly controlling teacher practices, neglecting to support autonomy has undesirable consequences for students’ need satisfaction, engagement, and academic performance. 
+Teachers undoubtedly want their students to learn and thrive in the classroom. So, why ignore or thwart students’ autonomy in their classrooms? One reason may simply reflect confusion regarding the nature of autonomy support versus chaos and the nature of structure versus control. Sometimes, in an attempt to avoid chaos, teachers fail to provide autonomy support. The critical distinction is that, in contrast to autonomy support, teachers in chaotic classrooms abandon students, providing no direction and leaving them to fend for themselves, or adopt a laissez-faire attitude in which they merely respond to students’ initiatives. Like autonomy support, chaos could be considered “student directed” and low in teacher directives. However, unlike autonomy support, chaos lacks necessary supports for motivation and learning; chaos does not include teachers’ attempts to create a participative climate and attune to students’ needs through perspective-taking, communication, and learning activities that align with student perspectives.
+In a classroom with high structure (i.e., an environment that will help students develop and experience competence),teachers provide guidance in the form of clear expectations, procedures, and feedback that builds on students’ needs and skills. Autonomy support and structure (along with teacher warmth or relatedness) are both critical in an optimally motivating classroom; structure and autonomy support often correlate or bolster each other’s effects. 
+Sometimes, structure can be confused with the less adaptive practices that define control and end up being antithetical to autonomy support. Like structure, control provides students with direction. But, unlike structure, control takes only the teachers’ perspective into account and attempts to pressure students to behave, think, and feel in only teacher prescribed ways. Thus, even when teachers have the best intentions to help students thrive, autonomy support can easily shift to chaos and structure to control, in the absence of the teacher’s active attempts to understand student perspectives and scaffold students’ instructional experiences based on those perspectives. Teachers should note the critical distinctions across motivational approaches—empowering them to support autonomy and structure and to avoid chaos and control. 
+Teachers may also adopt controlling practices in the classroom due to pressures from above, from below, and from within. Pressures from above include teachers (a) inherently occupying a powerful social role, relative to students, that implies their use of control; (b)being socialized within a U.S. culture that equates teacher control over students with teacher competence; and (c) themselves experiencing contextual pressure and control from schools, administrators, parents, and students who hold them accountable for students’ outcomes. 
+Pressures from within include some teachers, who (a)believe that controlling strategies like rewards and threats are most effective; (b) have personality dispositions that lead them to teach in a controlling manner; or (c) are not intrinsically motivated to teach and, in turn, teach in a controlling manner. Finally, pressures from below include teachers using control strategies in response to students’ passivity and disengagement, as an efficient way to garner student action.
+A key takeaway: for teachers to support students’ autonomy, they need support for their own autonomy (as well as support for their competence and relatedness). This support can come from teacher peers and local school administrators, as well as from city, state, and national government officials who create education policies that have implications for teachers’ practice. Support can come from students who must take partial responsibility for creating a motivating classroom environment by agentic ally engaging and letting teachers know how to support student needs. Finally, support can come from theory-driven education about the nature of motivation support in postsecondary schools of education and professional development led by motivation experts.
+
+
+Teacher Enthusiasm: Reviewing and Redefining a Complex Construct
+
+
+Defining Teacher Enthusiasm
+Beginning this review with a definition of teacher enthusiasm is where we encountered the first and largest hurdle because there is no agreed-upon definition of teacher enthusiasm. Instead, researchers have employed different conceptualizations of teacher enthusiasm, which we organized into two categories: displayed or experienced enthusiasm (see Table 1). When reviewing the literature, it is important to keep in mind that we do not favor one approach over the other; both are valid in their own respect. In fact, as we will argue later on, experienced and displayed enthusiasms are not mutually exclusive but may be two complementary elements of one overall concept of teacher enthusiasm.
+
+
+Teacher Enthusiasm as Nonverbal Expressiveness
+Collins proffered the idea of enthusiasm as a culmination of expressive nonverbal behaviors and defined teacher enthusiasm based on eight indicators. According to her operationalization, an enthusiastic teacher employs a lively, energetic, and exuberant teaching style, which is objectively identifiable as the frequent and intense use of (1) vocal animation, (2) wide-opened eyes and eye contact, (3) demonstrative gestures, (4) body movements, (5) meaningful and significant facial expression, (6) a descriptive selection of words, (7) acceptance of students’ ideas and feelings, and (8) an overall high level of energy. Following in Collins’ footsteps, several further studies also conceptualized teacher enthusiasm as nonverbal behaviors of expressiveness. 
+Very similar to Collins’ conceptualization, but emerging from a different line of research in teaching effectiveness, Murray’s investigation offers one of the most enlightening insights into the behavioral components of enthusiastic teaching. In this study, teachers who had been previously evaluated as high-, medium- , and low-quality college teachers were assessed by trained observers on the basis of a 60-item teacher-behavior inventory. An exploratory factor analysis of the behavior items yielded nine interpretable factors, one of which was labeled “enthusiasm”. The behavioral indicators associated with this factor included the following: (1) uses humor, (2) speaks expressively or emphatically, (3) shows facial expressions, (4) moves about while lecturing, (5) reads lecture verbatim from notes (negative factor loading), (6) shows energy and excitement, (7) smiles or laughs, (8) gestures with hands and arms, (9) shows strong interest in subject (negative factor loading),Footnote1 (10) avoids eye contact with students (negative factor loading), and (11) speaks softly (negative factor loading).
+
+
+In sum, several research traditions in the field of teacher enthusiasm reduce the construct to displayed enthusiasm in terms of nonverbal expressiveness. However cautioned that although enthusiastic teaching was, to a large extent, determined by nonverbal expressiveness, these behaviors might not be exhaustive when it came to enthusiastic teaching. Similarly, warned that when reducing teacher enthusiasm to “counted smiles and numbered gestures […] something of the whole is lost and validity suffers accordingly” (p. 7). Despite the fact that there are several research groups adhering to this conceptualization and producing intriguing findings, other researchers have deemed it necessary to extend beyond teacher enthusiasm as nonverbal expressiveness and also consider enthusiasm as instructional behavior and as an effective teaching strategy.
+
+
+Teacher Enthusiasm as Instructional Behavior
+Rosenshine lists research studies that not only include nonverbal expressiveness but also other relevant teacher behaviors such as verbal interaction between students and teacher, the types of questions that a teacher asked (varying between factual questions and asking for interpretation and opinion), and regular praise and encouragement. Similarly, other research studies conceptualize teacher enthusiasm as instructional behavior that is lively and engaging. In this literature, teaching enthusiasm is associated with teaching behaviors that include effective modes of information delivery, direct teaching or “instructional technique”. In his review, Rosenshine found enthusiastic teaching to relate to a teaching style described by keywords such as relaxation, mobility, expressiveness, stimulating, and energy or as the opposite of a monotonous and dull teaching style.
+
+
+In teaching effectiveness research—an area of research typically situated within higher education—questions concerning what constitutes an effective teacher, what factors influence course quality, and how these factors produce desired student outcomes serve as the starting point for research. In some investigations, enthusiasm is considered an element of effectiveness, and in others, it is not. Within the former body of research, enthusiasm is generally related to visible and perceivable teacher behaviors as judged from the students’ perspective.
+
+
+In an investigation of teaching effectiveness, teacher enthusiasm emerged as part of teachers’ rapport with students. It was defined as the teacher’s ability to create an atmosphere conducive to learning, to encourage students to express their opinions, and to engage them in the content area. Similarly, the enthusiasm dimension that emerged (post hoc) in the effectiveness instrument developed by Marsh included teachers being dynamic and energetic and enhancing their presentation with humor. However, it is important to note that within this research, indicators of behavioral enthusiasm are based on post hoc analyses and are not guided and selected using an underlying definition of enthusiasm. As such, any emerging conceptualization of enthusiasm is limited to the set of behaviors initially included in the evaluation and subsequent factor analyses.
+
+
+In sum, a strong research line supported by a vast body of teaching effectiveness research considers enthusiasm as instructional behavior and one factor of effective teaching and of course quality. However, while teacher enthusiasm in this body of research is usually understood as a set of behaviors conveying energy and excitement, it has yet to be determined which specific behaviors actually serve to convey that impression and whether or how these behaviors differ from nonverbal expressiveness. Based on our literature review, we think it likely that any differences in the conceptualization of displayed enthusiasm emerge because of different research methodologies: Research studies conceptualizing enthusiasm as nonverbal expressiveness were grounded in an experimental paradigm, often based on training teachers to engage in specific behaviors, whereas the studies emerging from teaching effectiveness research were concerned with large-scale assessments and comparisons of course quality and thus utilized a more generalized notion of displayed teacher enthusiasm. Although we believe that it is possible that displayed enthusiasm goes beyond nonverbal behaviors of expressiveness, there is no known evidence that empirically supports this idea.
+
+
+Teacher Immediacy
+Beyond research that explicitly explores enthusiasm as a behavioral variable, one similar construct exists that has yet to be deliberately connected to or differentiated from displayed teacher enthusiasm, namely teacher immediacy. Immediacy generally refers to nonverbal behaviors of physical or psychological closeness between communicating people. Although the operationalization of immediacy (including behaviors such as use of gestures, facial expression, eye contact, or tone of voice) appears to overlap significantly with the operationalization of nonverbally expressed teacher enthusiasm these two research traditions exist almost completely in isolation of one another. Babad explains this by highlighting the different functions of immediacy and enthusiasm in the classroom: “Enthusiasm would seem to emphasize instructors’ expressive style in teaching their subject matter, whereas immediacy would seem to center on instructor-student-interaction and closeness” (p. 223). In this way, it appears that while the theoretical function of enthusiasm and immediacy diverge—enthusiasm builds a relationship to the subject matter, and immediacy builds a relationship to a person—the means of assessing the two is virtually indistinguishable.
+
+
+Experienced Enthusiasm
+Deviating from behavioral conceptualizations of teacher enthusiasm, Kunter and colleagues supply a reconceptualization of teacher enthusiasm as experienced enthusiasm. Transcending earlier descriptions such as “energy” and “positive affect”. Kunter define teacher enthusiasm in terms of its affective component which “reflects the degree of enjoyment, excitement, and pleasure that teachers typically experience in their professional activities”. They interpret the term enthusiasm almost synonymously with enjoyment and relate it to the affective—not cognitive—components of interest. These authors also theoretically and empirically differentiate two forms of experienced enthusiasm, namely topic-related enthusiasm in which teachers can be excited about the subject that they teach and activity-related enthusiasm in which teachers are excited about teaching itself (e.g., interacting with students); both need not necessarily co-occur within the individual. Furthermore and using our terminology of experienced and displayed enthusiasms, the theoretical considerations and empirical evidence of Kunter and colleagues as well as Frenzel and colleagues suggest that experienced enthusiasm may motivate teacher behaviors and thus should serve as an antecedent of displayed enthusiasm.
+
+
+The approach of Kunter et al. to considering the affective component of teacher enthusiasm is relatively new but has since been applied in a number of investigations. However, the concrete conceptualization of experienced enthusiasm and, more importantly, its differentiation from similar constructs are still undetermined. We have identified three related constructs—enjoyment, intrinsic value, and passion—that may to varying degrees and on a conceptual level be related to and overlap with experienced enthusiasm.
+
+
+Teacher Enjoyment
+Over the last 15 years, teacher emotions have come to be recognized as important variables that not only influence teachers’ well-being but also teaching processes and student outcomes. Emotions can be described as multidimensional constructs that include a core affective component (the “feeling” itself) in addition to cognitive (e.g., emotion-specific thoughts), behavioral (e.g., approach toward an object), physiological (e.g., heart rate), and expressive components.
+
+
+Teacher enjoyment is one emotion that appears to play a large role in both teachers’ and students’ lives. Frenzel found that teachers’ enjoyment is transmitted to students via their enthusiastic teaching behaviors. This conceptualization and, even more so, this operationalization of teacher enjoyment closely parallel that of Kunter and colleagues’ concept of experienced enthusiasm (e.g., 2008; 2011) in that it captures the excitement, positive affect, and highly activating arousal associated with enthusiasm. In fact, the overlap between the two constructs appears so large that a clear distinction between the two is difficult to make. Although enthusiasm clearly encompasses more than enjoyment because it also includes behavioral elements, the affective component of enthusiasm might be adequately described by the discrete positive emotion enjoyment.
+
+
+Intrinsic Value
+Experienced enthusiasm and enjoyment also emerge within expectancy-value theory in relation to an individuals’ intrinsic value and thus can be seen within the broader scope of teacher motivation. In expectancy-value theory, the interaction of teachers’ perceived competence and the perceived value of their goals influence instructional behaviors and, thus, student outcomes. One prominent expectancy-value model includes, among several different kinds of values, intrinsic value, that is, “the enjoyment one gains from doing the task”. Within this perspective, experienced enthusiasm could relate to the intrinsic value of teachers’ goals inasmuch as it coincides with positive affective experiences during teaching but, at the same time, may be distinguished from intrinsic value in that experienced enthusiasm lacks the cognitive-evaluative component. Similarities and overlap of experienced enthusiasm and intrinsic value need to be determined in future research.
+
+
+Teacher Passion
+One could describe enthusiasm in layman’s terms as being “on fire” and passionate about an object or an activity. In educational research, passion has been regarded as a mixture of positive emotions and commitment toward a subjectively valuable target. Vallerand defined passion as a “strong inclination toward an activity that people like, that they find important, and in which they invest time and energy” (p. 757). To measure teaching passion, Carbonneau et al. (2008) ask teachers about their perceived value, love, and time commitment to the profession. Within this research, Vallerand and colleagues (Vallerand et al. 2003) have identified two different forms of passion, namely harmonious and obsessive passion. Of these two, harmonious passion has been related to positive affective experiences during and after an activity.
+
+
+Even though the conceptualizations of (harmonious) passion and experienced enthusiasm suggest that the two might be related, this relationship has not yet been empirically supported. Carbonneau and colleagues (2008)—referring to displayed enthusiasm—hypothesized that enthusiasm as a “visible sign of passion” (p. 983) is perceived by students and thus influences their behavior. However, whether passion actually manifests itself in enthusiastic behaviors and how these two concepts—enthusiasm and passion—are theoretically and empirically related or are distinct needs to be investigated.
+
+
+
+
+Why are we learning this? Using mixed methods to understand teachers’ relevance statements and how they shape middle school students’ perceptions of science utility
+
+
+“Why do I have to learn this?” “When will I ever need to know this?” Such questions are all too familiar to teachers, who are regularly tasked with facilitating learning of academic content among students who perceive that content as having little meaning, applicability, or value beyond the course in which it is introduced. Many students view schoolwork as irrelevant, or “unrelated to issues, competencies, or concerns of the real world”, and researchers, educational reformers, instructional designers, and students themselves have long pointed to this lack of relevance in explaining low levels of student engagement and motivation.
+Theory and research suggest that when learning tasks have meaning, applicability or value to students outside the instructional context, students exhibit greater interest, engagement, performance, and persistence. The degree to which students perceive particular academic tasks or course subjects as meaningful is undoubtedly influenced by a variety of factors that students bring with them to class like interests, life experiences, current understandings, goals, cultural norms, and stereotypes. These perceptions are also likely shaped by teachers and the extent to which they present their course material as having relevance outside the classroom. We know relatively little about how teachers attempt to communicate relevance during everyday instruction or whether these efforts have any real impact on how students view their schoolwork. 
+Effectively communicating relevance through instruction may be especially important in the domain of science because scientific knowledge and reasoning can inform one’s everyday choices about diet, health, and purchasing, and can facilitate understanding of contemporary sociopolitical issues such as those related to the environment and energy. Additionally, many jobs that provide a living wage (including jobs for which a college education is not necessary) require some degree of scientific literacy. For these reasons, the framework underlying then ext Generation Science Standards highlights the importance of making science content relevant. 
+It may be particularly important to understand how middle schoolteachers frame science relevance. Students’ interest in, motivation for, and valuing of academic subjects tends to decline throughout the middle school years, and such declines are especially precipitous in mathematics and science. Identifying ways middle school teachers can effectively help students see the importance of their science activities might suggest pathways for stemming the motivational declines observed during this developmental period. 
+In this article we use qualitative and quantitative methods to provide descriptive accounts of how four seventh-grade science teachers thought about and communicated the relevance of their subject matter. We then explore relations among teachers’ expressions of science relevance during the course of their naturally occurring instruction to students’ beliefs about the value of their immediate science content and the domain of science more generally.
+Relevance as an instructional strategy. 
+In education literature, the term “relevance” is often used but seldom defined. Drawing upon theory and research in instructional design and technology, instructional communication, and educational psychology,we use the term relevance to refer to instructional strategies that teachersuse to highlight the meaning, applicability or usefulness of course content beyond the immediate instructional context. That is, we use relevance to refer to instructional strategies that are intended to connect their content to issues, competencies and concerns of the “real-world.” As such, relevance is a broad term that includes targeted connections teachers make to students’ immediate or goals and interests as well as less specific connections betweencourse content and life outside the classroom (e.g., local environments, current events).
+Research on effective teaching suggests that students tend to perceive their classroom environment as more motivating, have more positive attitudes toward school, and engage more deeply when they feel their teachers use relevance in their instruction. Clegg and colleagues have done instructional design work in which they create “life-relevant science learning programs” where learners connect science to their everyday lives. The researchers argue that through exposure to these everyday connections, students develop scientific dispositions and see the value of science in relation to their goals. While making content relevant is generally recognized as good teaching practice, we know little about how teachers in general or science teachers in particular think about the relevance of their content. In what ways do science teachers view their content as related to life outside the classroom? Do they see connections for all students or just some students? Do they see connections to their students’ future and/or to their daily experience? Teachers may differ widely in the breadth and depth of connections they see, and one goal in the current study is to understand how and for whom the science teachers in our study perceived the relevance of their content.
+Research on the effects of teachers’ use of relevance has typically relied on student reports about whether they perceive their teachers as promoting relevance, which are then linked to students’ reports of motivation and value. It is potentially problematic to rely on student reports of teacher behaviors because students who are more motivated and value the course content more to begin with might see more relevance in their teachers’ behaviors. Instructional design research often incorporates relevance information through instructional texts rather than implementation of specific teacher behaviors, or does not systematically document how teachers are actually implementing learned relevance strategies in the classroom How teachers communicate relevance to their students is likely shaped by teachers’ content knowledge, by the degree to which they see their content as relevant, and by their perceptions of their students. Descriptive details about how teachers communicate relevance during instruction might help us understand whether and how the use of relevance is related to students’ beliefs and behaviors. To this end, a second goal of this study is to understand the different ways teachers communicate relevance during instruction.
+1.2. Perceived utility as the means through which relevance “works”
+Relevance strategies are presumed to benefit student motivation and learning because they help students personally value what they are learning and see it as related to the fulfillment of their goals. As a result of this increased valuing, students are more willing to focus attention and effort on coursework that they see as worthwhile, which results in increased engagement and learning. Thus, perceived value is a means through which relevance is presumed to positively affect learners. Contemporary Expectancy-Value Theory specifies four components of value that shape students’ achievement-related choices and performance. Utility value refers to the valuing of a task in terms of its usefulness for helping with the fulfillment of one’s immediate or future goals, and as such, closely represents the type of value that is theorized to be influenced by relevance strategies. Attainment value refers to the perceived importance of doing well on a task for one’s identity. Intrinsic value refers to the enjoyment that one can get out of doing a task. Finally cost refers to the downsides of engaging in a task in terms of what might have to be sacrificed in order to do so. 
+While it is conceivable that teachers’ emphasis on relevance could influence each of these components of value and cost, we have chosen to focus exclusively on utility value perceptions as a first step because they may be more malleable (at least in the time frame of the current study) than attainment value perceptions, which are related to one’s identity. Further, relative to intrinsic value and cost, utility value seems to be more closely linked to relevance in terms of the processes involved. Thus, in the current study we focus on the relationship between teachers’ use of relevance in instruction and students’ perceptions of utility. Future studies might examine links between teachers’ use of relevance in instruction and other components of students’ value perceptions.
+Much of the research within an Expectancy Value framework (and other frameworks that emphasize value) has focused on value as an independent variable rather than an outcome in itself. Indeed, applications of these theoretical frameworks have “not yielded much information about how teachers might help students to appreciate the value of what they are learning”. By linking teachers’ daily practice over time with students’ perceptions of utility, this study aims to fill this gap. In their investigation of relations between instructional support, task value, and student engagement, Marchand argue that time-intensive investigations of the quality of classroom interactions like those employed in the current study can help illuminate the motivational processes underlying students’ behaviors and beliefs in a way that contributes to both theory and practice. 
+Students may develop beliefs about science utility at multiple levels. Most immediate are students’ beliefs about the utility of the particular course content and activities with which they are engaged on a daily basis (e.g. “why should I care which substances keep this apple from turning brown?” “How are Newton’s Laws useful to me?”). Students also may develop beliefs about the utility of the domain of science on a more general level (e.g. “Can I see the way scientific understanding applies to life?”). At present, it is unclear whether teachers’ use of relevance during instruction shapes students’ utility beliefs at either or both of these levels. A third goal of this study is to answer this question.
+1.3. Considerations in understanding links between relevance and perceived utility
+While the current study examines links between teachers’ use of relevance and students’ perceptions of science utility, there are likely individual differences that impact both of these things. For example, students’ backgrounds and self-beliefs might shape not only their everyday experience and their goals, but also the extent to which they see academic content as being useful to these experiences and goals. Likewise, teachers’ perceptions of their students’ capabilities, interests and backgrounds might influence whether and how teachers frame their content as relevant. Here we describe three constructs that we attempted to consider, in various ways, in our qualitative and quantitative analyses. Each of these constructs is identified in existing literature as having particular salience in discussions of value, relevance, and/or STEM learning, and thus has a potential role to play in understanding the phenomena we are examining.
+Perceptions of competence. 
+Students’ beliefs about their own competence in science might influence their utility perceptions in a number of ways. Students who believe they are less competent might be less apt to recognize content as useful, either because they lack sufficient knowledge to make connections to their personal goals or because their low competence beliefs (warranted or not) lead them to believe the content is “not for me.” Indeed, a number of experimental and quasi-experimental studies aimed at manipulating students’ utility perceptions in a particular domain suggest that the degree to which such manipulations are effective may depend on whether or not students view themselves as competent in that domain. In a similar fashion, teachers’ beliefs about their students’ competence might influence how they talk about relevance during instruction. Teachers might emphasize different kinds of relevance among students they perceive as having high vs. low competence. For example, they might emphasize applicability for careers or future education with one group while emphasizing relevance for daily living with the other. 
+Interest. 
+Students do not enter their science courses in a vacuum of beliefs about the content: Rather they come with myriad beliefs and interests. It seems likely that students who are already interested in a particular task or domain might perceive that task or domain as more useful relative to others who are not interested. Scholars from a number of perspectives have posited that attempts to communicate relevance will be less influential among students who are already interested in a task and will have greatest influence on those who find the task boring or uninteresting. It seems plausible that students’ interest in a domain might also impact teachers’ use of relevance in instruction. If teachers perceive their students to be interested, they may attempt to support this interest by more frequently emphasizing connections between content and students’ goals and experiences. Alternatively, teachers might feel compelled to emphasize relevance among less interested students in an attempt to “sell” the content to them.
+Representation in STEM fields. Given the longstanding underrepresentation of women in many STEM fields it is appropriate to consider whether students’ gender plays a role in how teachers talk about relevance and/or in how students perceive and interpret teacher comments about relevance. For example, in prior work we found that high school science teachers tended to spend more time talking with their male students than their female students and saw their male students as more “naturally inclined” toward science. Moreover, women and girls are less likely to see themselves as scientists, and thus may see science as less connected to their goals. In this study we use mixed methods to answer the research questions 
+
+
+Participants. Four seventh-grade science teachers participated int he study. Two taught at one middle school (pseudonyms Jackie and Celia), while the other two taught at another middle school in the same district (pseudonyms Kate and Donna). These teachers were responsible for all seventh-grade science classes at their respective schools. A total of 14 course sections were observed as part of the study. 
+
+
+Data collection. The general methodological framework guiding the qualitative component of this study was phenomenological in that our goal was to understand a specific construct or phenomenon(relevance), and that the focus of our study was the everyday experience of individuals. Data were collected via observations and interviews. 
+Classroom observations. Each of the 14 class sections was observed for a full 50-min class period on multiple occasions over a seven-week period. Ten classrooms (taught variously by all 4 participant teachers) were observed 14 times (twice per week). Due to scheduling constraints imposed by the broader study this investigation was a part of, 4 classrooms (taught by 2 of the teachers) were observed only 8 times (once per week, with the very first week having two observations). The observation day(s) were intentionally varied from week to week to ensure that we saw a variety of routines and schedules. We observed all classrooms studying a weather unit and a physics unit. The observational protocol entailed positioning 2–3 observers at multiple locations in the classroom to record activities and teacher-student interactions (3 observers was most typical, occurring in over 70% of the cases). Multiple observers were used to establish confirmability of observations, and either the study’s first or fourth author was involved in observation of all classrooms. Observers trained extensively with classroom video from a prior study to employ a type of event sampling in which they provided rich description of any situation in which the teacher explicitly talked about how or why science content mattered. This included any instance when teachers described how or why science: applied to life, was important, valuable, useful, fun, interesting, or good. We also recorded instances in which teachers explicitly communicated that science may not matter (science is not useful, is unimportant, bad, etc.). Researchers made a detailed accounting of each statement (verbatim, when feasible), noting who it was addressed to, and circumstances surrounding the statement. Immediately following, observers consolidated their notes to construct a single set of field notes.
+Teacher interviews. Following the seven-week observation period, each teacher participated in a semi-structured interview with one of the study’s principal investigators (first and fourth authors on this manuscript).Interviews were conducted to more fully understand how teachers thought about the relevance of their science content and triangulate their stated perspectives with our classroom observations. Each interview lasted approximately 50 min and was recorded and transcribed. Using open-ended items and probes, teachers were asked to talk about activities in the weather and physics units we observed, what they hoped students would learn through those units, and what strategies were most effective in fostering that learning. We asked teachers to consider whether the strategies they mentioned were more or less effective for girls vs. boys, if gender had not spontaneously come up in their original response. We also asked them to reflect about the importance of the two units we observed, and if necessary probed for perceived connections to future education, daily life, and general scientific principles. Finally, we asked teachers to identify students who might have a future in science, and to reflect upon the qualities that prepare students for this type of future, probing specifically about maleand female students.
+Qualitative data analysis. Teacher statements recorded in the fieldnotes were coded in two distinct iterative steps using the NVivo software program. Drawing upon research on instructional strategies and effective teaching, the first coding step sorted teachers’ mattering statements into broad categories using an a priori frame. Pairs of researchers (including the study’s second and third authors) independently coded 20% of the fieldnotes (sampled equally across all four teachers) with 91% agreement. Four broad categories of mattering statements were identified: (1) relevance (science has meaning, application or value beyond the instructional context); (2) enthusiasm/positive affect (science is interesting, fun or cool); (3) reluctance/negative affect (doing science is boring, difficult, unimportant, or involves some cost or sacrifice); and (4) other mattering. Based on results of this first coding step we narrowed our attention for a second, more emergent round of coding, which is the focus of this article. Because teachers referenced relevance far more often than otherkins of mattering (reported later in qualitative results), we developed a second coding step to code teachers’ relevance statements in greater depth along several dimensions using a descriptive framework that emerged from our reading of the data (Braun & Clarke, 2006). The procedures for defining relevance statements to code, and the codes that were ultimately developed are described in Table 2. Each relevance statement was coded along six dimensions, described briefly below and labeled A-F in Table 2. Statements were coded for the referent audience, which indicates who the teacher was talking to at the time she made the statement (e.g., whole class, individual student, small group). We coded for the relevance target, which refers to who science was framed as being relevant for (e.g., relevant for everyone, for certain students, for specific others). We coded for each statement’s specificity to goals, which refers to the extent to which the teacher connected science to goals, plans or decision making. We coded the domain of relevance to indicate the life domain(s) for which science was framed as relevant (e.g. everyday activities, career, school, natural phenomena). We coded topical specificity to reflect whether the teacher’s statement referred to science generally (e.g. “orthodontists need to know a lot about science” –Donna) or to a specific topic (e.g. weather, Newton’s first law). Finally, we coded the time frame for relevance, which indicated whether science was framed as being relevant in the present or at some point in the future. Twenty percent of the field notes (sampled equally across all four teachers) were coded by pairs of independent coders (including the study’s second and third authors) using the final frame, with interrater agreement ranging from 96 to 100%, depending on the coding category. Transcripts of the four teacher interviews were coded in the process of constructing integrated teacher profiles that draw from the qualitative and quantitative strands. These efforts will be described in the section of this article focused on the integrated analytic phase.
+
+
+Relevance coding framework used for classroom observations.
+Defining the relevance event to code: Any teacher statement indicating that science or science content is useful for some purpose (by anyone) or related to one’s experience. In complex relevance statements in which multiple ideas are expressed, any shift in any of the codes below signals that the event should be coded as multiple relevance statements. (rather than multiple events). Any change in codes A-F below signals a new event. Keep in mind that we are coding instances that emphasize the utility of science for something else. We are NOT coding comments that emphasize the utility of particular tools, methods, or practices for understanding science, or for doing science better
+
+
+Coded dimensions
+A. Referent audience. The teacher was talking to:
+Individual male student
+Individual female student
+Individual student – gender unknown
+Whole class
+Small group – all female
+Small group – all male
+Small group – mixed gender
+Small group – unknown gender composition
+Self
+Other (includes aides, research team members)
+Don’t know
+B. Relevance target. Science is framed as being explicitly relevant for:
+Teacher (“this is relevant to me”)
+Individual male student
+Individual female student
+Individual student – gender unknown
+Whole class/general population/everyone (the default category, the general ‘you/
+we’)
+Small group – all female
+Small group – all male
+Small group – mixed gender
+Small group – unknown gender composition
+Other (e.g., ‘orthodontists, need to know this’)
+C. Specificity to goals:
+Real life is related to science content OR relevance of content is stated without goal
+Content impacts real life for specific passive outcome (include comfort/discomfort/
+expectations)—EXCLUDE if statement communicates that content impacts
+decisions, plans, or actions
+Content is useful for some specific goal (achievement, attainment, understanding)
+OR career OR if content impacts real life in a way that affects decisions, plans, or
+actions (of anyone)
+D. Domain of relevance. Connection is made between science and:
+A job or career
+Future education in science (high school, getting into college, college majors)
+Health/safety (physical or mental)
+Routine activities/events (eating, driving), relevant cultural activities (TV, pop
+culture)
+Understanding or explaining natural phenomenon
+Explaining, or solving problem (local or global) that is relevant to a specific current
+event, news, or historical event (includes global warming/environmental issues).
+OR, explaining advances in science, health, and technology in general;
+emphasizing usefulness for progressing as a society
+Hobby or pastime (e.g. sports)
+Bridge to understanding a concept, unit or experience in current science class
+Bridge to understanding in another class (e.g. math, geography)
+Useful for understanding or advancing social relationships
+E. Topical specificity. Connection refers to:
+Specific topic in science
+Science in general (“orthodontists need to be good at science”)
+F. Time frame for relevance:
+Implied whenever, no time mentioned, past, or general “in the future” or “right
+now” suggesting all of the time
+Immediate future (this week or month)
+Moderate future (this season, year, time through high school)
+Long term (in college, career, as adult)
+
+
+Qualitative results: How teachers used relevance in instruction
+Using the fieldnotes from our classroom observations, we identified and coded 394 unique instances when teachers made statements about why science mattered. This amounts to an average of 2.6 observed statements in each class period we observed. Two hundred ninety-two of these statements (or 74%) were categorized as relevance statements because they made an explicit connection between science content and students’ experiences or goals outside of the immediate learning context. Thirty-nine statements (10%) were coded as expressing teacher enthusiasm or positive affect, as they explicitly articulated that science was fun or interesting. Thirty-six statements (9%) expressed reluctance or negative affect about science or emphasized the costs of engaging with the content. Most often teachers told students that science was extremely difficult, would take time away from other things they might want to do, or would “stress them out.” We identified 27 instances (7%)in which teachers clearly said science content was important, but we were unable to fit their statement into any meaningful category. In most of these statements the teacher said something akin to “this stuff is really important” without explaining why. 
+Because teacher statements about relevance were made more frequently than other kinds of mattering statements, we developed a more detailed coding frame to characterize the nature of those statements. Results of that process were used to address our first research question about how teachers describe and communicate relevance. Most of the relevance statements teachers made (77%) were directed at the entire class rather than individual students. In those rare occasions when teachers communicated relevance directly to an individual student, these statements were nearly always made publicly in front of the whole class, so everyone in class heard the message being conveyed. Teachers rarely made relevance statements in which they characterized science as being relevant for a specific person (either a student or another identifiable individual). Rather, in 90 percent of the instances we recorded, teachers’ relevance statements were more general, suggesting teacher made statements in a given class period. The number reported in parentheses is the relevance for anyone. Because teachers’ relevance statements so rarely identified relevance in terms of specific persons, there was no evidence that teachers’ expressed relevance statements inequitably by individual student gender.
+Teachers’ relevance statements nearly always (93%) referenced specific science content (e.g. “Newton’s laws help you understand what happens to the ball when you play soccer.” - Donna), rather than referring to the relevance of science more generally (e.g., “Don’t they know that orthodontists need to know about science?” - Donna). Most of the statements teachers made about relevance (82%) either explicitly referred to the present or did not refer to a specific time frame (e.g. “It’s like when you slam on the brakes really hard in the car – what happens to the passengers inside?” – Kate). Only 18 percent of all the statements we observed referred specifically to relevance in the future (e.g. “you’ll need to know this for high school” – Celia).
+
+
+Teachers’ relevance statements referenced connections to routine activities and hobbies like sports and driving a car (24%); natural phenomena and local or global problems like climate change (19%);health and safety concerns (16%); specific jobs or careers (11%), and current or future education (7%). About 23% of all teacher statements were not readily identifiable as pertaining to a specific domain of life but were nonetheless referencing relevance (e.g. “I wish I could get you guys to understand that speed is about more than cars” - Donna).
+
+
+Teachers made statements with varying levels of specificity regarding the connection of science content to goals, plans or decisions. We coded each relevance statement as falling into one of the following levels of specificity, with about one-third of all relevance statements falling into each category:
+• Low specificity: Teachers made a connection between science content and students’ experience, but with no reference to the impact of science on any particular event, goal or outcome (e.g. “Like yesterday when you were going home from school – did you see them? What kinds of clouds?” student responds “stratus.” “Yes!” - Celia).
+• Moderate specificity: teachers describe how science impacts the self for a specific passive outcome but make no reference to the use of this knowledge for making plans or decisions (e.g. “high humidity can make your hair frizzy” –Jackie). While these statements identify a cause-effect relationship involving science constructs, there is no acknowledgement of how it might relate to one’s plans, goals, actions or decisions.
+• High specificity: Teachers describe how science content is related to specific goals, decisions, plans or actions (e.g. “if you know what cumulonimbus clouds and funnel clouds look like you might be able to protect your family from tornadoes and other bad storms.” –Celia). Such statements explicitly state a situation which scientific understanding could be useful.
+
+
+In comparing relevance statements across the four teachers in the study, the most striking pattern is that Donna talked about relevance far more often than the other teachers. On average, Donna referenced relevance four or five times in each of her 50-min class sessions. In contrast, Jackie and Kate referenced relevance less than once per class period, and Celia averaged between one and two references per class. We dive deeper into teacher-related differences regarding relevance processes in our quantitative analysis of student survey data (presented next) and then again through the construction of comprehensive profiles that integrate teachers’ interview responses with our classroom observations and quantitative results.
