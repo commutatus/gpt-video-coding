@@ -6,7 +6,7 @@ import openai.error
 import time
 import random
 
-openai.api_key = ''
+os.environ["OPENAI_API_KEY"] = "openAIKey"
 
 
 def generate_conversation(max_retries = 3):
